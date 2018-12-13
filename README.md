@@ -1,5 +1,3 @@
-# weather_api
-https://github.com/Ajitrisantosa22/weather_api/blob/master/code.png
 # App Weather API with React-Native Android
 ![Scan Disini](https://github.com/Ajitrisantosa22/weather_api/blob/master/code.png)
 
